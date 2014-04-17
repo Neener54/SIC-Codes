@@ -1,5 +1,5 @@
 Division/SIC	Description	Link
-Agriculture, Forestry, And Fishing
+'Agriculture, Forestry, And Fishing'
 0100	Agricultural Production Crops	http://www.osha.gov/pls/imis/sic_manual.display?id=1&tab=group
 0110	Cash Grains	
 0111	Wheat	http://www.osha.gov/pls/imis/sic_manual.display?id=310&tab=description
@@ -806,7 +806,7 @@ Manufacturing
 3995	Burial Caskets	http://www.osha.gov/pls/imis/sic_manual.display?id=889&tab=description
 3996	Linoleum, Asphalted-Felt-Base, and Other Hard Surface Floor Coverings, Not Elsewhere Classified	http://www.osha.gov/pls/imis/sic_manual.display?id=890&tab=description
 3999	Manufacturing Industries, Not Elsewhere Classified	http://www.osha.gov/pls/imis/sic_manual.display?id=1012&tab=description
-Transportation, Communications, Electric, Gas, And Sanitary Services
+'Transportation, Communications, Electric, Gas, And Sanitary Services'
 4000	Railroad Transportation	http://www.osha.gov/pls/imis/sic_manual.display?id=33&tab=group
 4010	Railroads	
 4011	Railroads, Line-Haul Operating	http://www.osha.gov/pls/imis/sic_manual.display?id=892&tab=description
@@ -921,7 +921,7 @@ Transportation, Communications, Electric, Gas, And Sanitary Services
 4961	Steam and Air-Conditioning Supply	http://www.osha.gov/pls/imis/sic_manual.display?id=957&tab=description
 4970	Irrigation Systems	
 4971	Irrigation Systems	http://www.osha.gov/pls/imis/sic_manual.display?id=958&tab=description
-Wholesale Trade
+'Wholesale Trade'
 5000	Wholesale Trade-durable Goods	http://www.osha.gov/pls/imis/sic_manual.display?id=43&tab=group
 5010	Motor Vehicles And Motor Vehicle Parts And Supplies	
 5012	Automobiles and Other Motor Vehicles	http://www.osha.gov/pls/imis/sic_manual.display?id=959&tab=description
@@ -1011,7 +1011,7 @@ Wholesale Trade
 5194	Tobacco and Tobacco Products	http://www.osha.gov/pls/imis/sic_manual.display?id=11&tab=description
 5198	Paints, Varnishes, and Supplies	http://www.osha.gov/pls/imis/sic_manual.display?id=12&tab=description
 5199	Nondurable Goods, Not Elsewhere Classified	http://www.osha.gov/pls/imis/sic_manual.display?id=244&tab=description
-Retail Trade
+'Retail Trade'
 5200	Building Materials, Hardware, Garden Supply, And Mobile Home Dealers	http://www.osha.gov/pls/imis/sic_manual.display?id=45&tab=group
 5210	Lumber And Other Building Materials Dealers	
 5211	Lumber and Other Building Materials Dealers	http://www.osha.gov/pls/imis/sic_manual.display?id=13&tab=description
@@ -1125,7 +1125,7 @@ Retail Trade
 5994	News Dealers and Newsstands	http://www.osha.gov/pls/imis/sic_manual.display?id=62&tab=description
 5995	Optical Goods Stores	http://www.osha.gov/pls/imis/sic_manual.display?id=63&tab=description
 5999	Miscellaneous Retail Stores, Not Elsewhere Classified	http://www.osha.gov/pls/imis/sic_manual.display?id=257&tab=description
-Finance, Insurance, And Real Estate
+'Finance, Insurance, And Real Estate'
 6000	Depository Institutions	http://www.osha.gov/pls/imis/sic_manual.display?id=53&tab=group
 6010	Central Reserve Depository Institutions	
 6011	Federal Reserve Banks	http://www.osha.gov/pls/imis/sic_manual.display?id=64&tab=description
@@ -1454,7 +1454,7 @@ Services
 8900	Miscellaneous Services	http://www.osha.gov/pls/imis/sic_manual.display?id=83&tab=group
 8990	Miscellaneous Services	
 8999	Services, Not Elsewhere Classified	http://www.osha.gov/pls/imis/sic_manual.display?id=1014&tab=description
-Public Administration	
+'Public Administration'	
 9100	Executive, Legislative, And General Government, Except Finance	http://www.osha.gov/pls/imis/sic_manual.display?id=76&tab=group
 9110	Executive Offices	
 9111	Executive Offices	http://www.osha.gov/pls/imis/sic_manual.display?id=289&tab=description
